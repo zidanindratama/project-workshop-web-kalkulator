@@ -1,3 +1,9 @@
+/*
+  // KALKULATOR SEDERHANA
+  // V.1.0
+  // AUTHOR : ZIDAN INDRATAMA
+*/
+
 const screen = document.querySelector("#screen");
 const btn = document.querySelectorAll(".btn");
 
