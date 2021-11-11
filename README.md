@@ -1,6 +1,6 @@
 # Kalkulator Sederhana
 
-Kalkulator sederhanya yang terbuat dari HTML, CSS, dan Vanilla JavaScript
+Kalkulator sederha yang terbuat dari HTML, CSS, dan Vanilla JavaScript
 
 ## Clone Project
 
