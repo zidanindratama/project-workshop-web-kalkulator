@@ -47,11 +47,11 @@ const log = () => {
 };
 
 const pi = () => {
-  screen.value = 3.14159265359;
+  screen.value = Math.PI;
 };
 
 const e = () => {
-  screen.value = 2.71828182846;
+  screen.value = Math.E;
 };
 
 const fact = () => {
